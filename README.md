@@ -17,7 +17,7 @@ streamlit run app.py
 ### macOS / Linux
 
 ```bash
-cd chipshield_mvp
+cd CHIPSHIELD
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
