@@ -82,9 +82,3 @@ Primary objective:
 Tie-breakers:
 1. lower cost
 2. lower recovery time
-
-This is intentionally exhaustive for the small MVP intervention set rather than a greedy heuristic.
-
-## 6. Suggested pitch
-
-> “CHIPSHIELD is not claiming to know Tata's proprietary operating data. We built a transparent dependency model. You introduce a disruption, the bottleneck propagates through the dependency graph, and the optimizer tests every feasible resilience investment portfolio. The value of the prototype is that the assumptions are visible and changeable.”
